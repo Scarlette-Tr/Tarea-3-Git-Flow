@@ -3,6 +3,7 @@
 
 Esto es un proyecto sencillo de un formulario web que ingresa datos en una Tabla.
 Utilizado como ejemplo.
+Se utilizo el Git Flow usando la estructura correspondiente. 
 ![image](https://user-images.githubusercontent.com/84217331/229193214-9073be06-4eff-448c-9410-09849cecbd60.png)
 -
 ![image](https://user-images.githubusercontent.com/84217331/229193309-a642feda-8d07-44a8-8fb3-5591dd721225.png)

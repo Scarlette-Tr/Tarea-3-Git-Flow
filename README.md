@@ -17,7 +17,8 @@ Git clone, Git branch,Git checkout, Git status, Git add, Git commit
 
 (❁´◡`❁)   Tarea-3-Git-Flow     (❁´◡`❁)
 
-Esto es un proyecto sencillo de un formulario web que ingresa datos en una Tabla.
+Esto es un proyecto sencillo d[Tarea 3.pdf](https://github.com/Scarlette-Tr/Tarea-3-Git-Flow/files/11128294/Tarea.3.pdf)
+e un formulario web que ingresa datos en una Tabla.
 Utilizado como ejemplo.
 Se utilizo el Git Flow usando la estructura correspondiente. 
 ![image](https://user-images.githubusercontent.com/84217331/229193214-9073be06-4eff-448c-9410-09849cecbd60.png)
